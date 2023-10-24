@@ -23,7 +23,7 @@
 `python main.py "What is the invoice number value?"`
 
 
-SERVER 
+## FASTAPI Server Implementation 
 
 
 7. Load Server using FAST API 
