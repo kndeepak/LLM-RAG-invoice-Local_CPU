@@ -1,10 +1,5 @@
 # Invoice data processing with Llama2 13B LLM RAG on Local CPU
 
-
-**Youtube**: <a href="https://www.youtube.com/watch?v=XuvdgCuydsM" target="_blank">Invoice Data Processing with Llama2 13B LLM RAG on Local CPU</a>
-
-___
-
 ## Quickstart
 
 ### RAG runs on: LlamaCPP, Haystack, Weaviate
