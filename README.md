@@ -28,9 +28,10 @@ SERVER
 
 7. Load Server using FAST API 
 
- 'uvicorn main:app --reload' 
+ 
+`uvicorn main:app --reload`
  
 8.Run query in this format 
 
-'http://127.0.0.1:8000/get_answer/?query=YourQuestionHere '
+`http://127.0.0.1:8000/get_answer/?query=YourQuestionHere`
 
